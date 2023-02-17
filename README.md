@@ -1,4 +1,4 @@
-## Hello, I´m Dyeniffer Balçanelli, student of front end!
+## Hello, I´m Dyeniffer Balçanelli, front end developer!
 <div align="center">
   <a href="https://github.com/DyeniDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DyeniDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
